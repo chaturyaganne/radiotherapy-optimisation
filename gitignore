@@ -1,0 +1,10 @@
+*.h5
+*.dcm
+hf_data/
+data/
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
