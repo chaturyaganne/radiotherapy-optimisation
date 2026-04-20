@@ -3,7 +3,7 @@
 
 ---
 
-## 📘 Overview
+## Overview
 
 This project implements **Intensity‑Modulated Radiation Therapy (IMRT)** optimisation using **convex programming**.  
 The goal is to compute beamlet intensities that:
@@ -27,7 +27,7 @@ This acts as a **practical surrogate** for nuclear norm regularisation.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 1. Maintain tumour coverage (D95 ≥ 60 Gy)  
 2. Reduce hotspots and improve homogeneity  
@@ -37,7 +37,7 @@ This acts as a **practical surrogate** for nuclear norm regularisation.
 
 ---
 
-## 🧩 Notebook Structure
+##  Notebook Structure
 
 ### **1. Installation & Imports**
 Installs PortPy, CVXPY, solvers, and scientific libraries.
@@ -165,7 +165,7 @@ For each plan, computes:
 
 ---
 
-# 📊 Plot Explanations
+#  Plot Explanations
 
 ## **1. Dose Volume Histogram (DVH)**
 
@@ -253,7 +253,7 @@ Shows:
 
 ---
 
-# 🧠 Key Variables
+#  Key Variables
 
 | Variable | Meaning |
 |---------|---------|
@@ -272,7 +272,7 @@ Shows:
 
 ---
 
-# 🏁 Summary
+#  Summary
 
 This notebook demonstrates that:
 
